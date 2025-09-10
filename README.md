@@ -1,4 +1,5 @@
 Get-FileHash 1.0.0
+
 Get-FileHash is a modern, easy-to-use Windows utility with a sleek graphical interface designed to simplify file integrity verification. It allows users to quickly calculate and compare cryptographic hash values of files using various algorithms.
 
 Features
